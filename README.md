@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @estramoe
+- 👋 Hi, I’m Fazal Rehman
 - 👀 I’m interested in data
 -🌱 I’m currently learning sql and R
 - 💞️ I’m looking to collaborate on data science projects
