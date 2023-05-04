@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fazal Rehman
+- 👋 Hi, I’m Bilal
 - 👀 I’m interested in data
 -🌱 I’m currently learning sql and R
 - 💞️ I’m looking to collaborate on data science projects
