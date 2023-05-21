@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about data science and machine lear
 
 ## About Me
 
-- 🌱 I'm currently expanding my knowledge in SQL and R, focusing on data analysis and manipulation.
+- 🌱 I'm currently expanding my knowledge in Python, SQL and R, focusing on machine and deep learning.
 - 👀 I'm enthusiastic about working with data to extract meaningful insights and solve real-world problems.
 - 💼 I'm actively seeking opportunities to collaborate on data science projects and contribute to open-source initiatives.
 - 🎓 I hold a strong belief in lifelong learning and continuously honing my skills in this ever-evolving field.
