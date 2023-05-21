@@ -18,9 +18,9 @@ You'll find a collection of my projects here on my GitHub profile. These project
 
 I'm always excited to connect with fellow data enthusiasts, researchers, and professionals. If you'd like to collaborate on a project, discuss ideas, or simply have a chat, feel free to reach out to me using the following channels:
 
-- 📫 [Email](mailto:your-email@example.com)
+- 📫 [Email](mailto:mba.2@live.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
+- 🐦 [Twitter](https://twitter.com/momoguco)
 
 Let's exchange knowledge, explore exciting datasets, and create impactful solutions together!
 
